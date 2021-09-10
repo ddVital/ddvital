@@ -1,6 +1,6 @@
 ## Hello, I'm David
 
-I speak Portuguese, English, and German. I love Programming, math, physics, and learning new Things.
+I speak Portuguese, English, and German. I love Programming, math, and physics. and I'm always learning new things...
 
 <div>
   <a href="https://github.com/ddvital">
