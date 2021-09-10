@@ -1,5 +1,8 @@
 ## Hello, I'm David
- <div>
+
+I speak Portuguese, English, and German. I love Programming, math, physics, and learning new Things.
+
+<div>
   <a href="https://github.com/ddvital">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddvital&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddvital&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,7 +20,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="funny" height="120" width="120" src="https://user-images.githubusercontent.com/56490555/132908632-983c8130-0fbd-4102-b70d-eafefde4f1c2.gif">
+  <img align="right" alt="funny" height="130" width="130" src="https://user-images.githubusercontent.com/56490555/132908632-983c8130-0fbd-4102-b70d-eafefde4f1c2.gif">
 </div>
   
   ##
