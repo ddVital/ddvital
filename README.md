@@ -1,12 +1,18 @@
 ## Hello, I'm David
 
-I speak Portuguese, English, and German. I love Programming, math, and physics. and I'm always learning new things...
+I'm always trying to learn new things and be a better person and developer :)
+
+* 🔭 Currently learning **Artificial Inteligence**.  
+* 🧠 I speak Portuguese, English, and German.  
+* ❤️ In love with Math, Physics, and computers.  
+
 
 <div>
   <a href="https://github.com/ddvital">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddvital&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddvital&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddvital&layout=compact&langs_count=8&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -20,12 +26,4 @@ I speak Portuguese, English, and German. I love Programming, math, and physics. 
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="funny" height="130" width="130" src="https://user-images.githubusercontent.com/56490555/132908632-983c8130-0fbd-4102-b70d-eafefde4f1c2.gif">
-</div>
-  
-  ##
- 
-<div>
-  <a href = "mailto:ddvital0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ddvital" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
