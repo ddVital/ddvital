@@ -1,6 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  ### Hi, I'm David
-  
+
+### Hi, I'm David
+
   <div>
     <a href="https://www.twitter.com/ddvital_/">
       <img align="left" alt="ddvital's twitter" width="22px" src="https://user-images.githubusercontent.com/56490555/161457096-c24861f8-41b0-4666-9661-81edd34faa76.svg"/>
