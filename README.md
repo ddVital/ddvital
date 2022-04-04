@@ -1,6 +1,13 @@
-<h1> </h1>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+  * {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>Hi, I'm David</h1>
+  <p style="font-size: 32px; font-weight: 700">Hi, I'm David</p>
   
   <div>
     <a href="https://www.twitter.com/ddvital_/">
