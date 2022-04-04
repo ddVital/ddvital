@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: space-between; background:" width="100%">
-  <h1>Hi, I'm David </h1>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>Hi, I'm David</h1>
   
   <div>
     <a href="https://www.twitter.com/ddvital_/">
