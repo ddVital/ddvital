@@ -18,7 +18,7 @@
   </div>
 </div>
 
-I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to know more about me? try taking a look at my [portfolio](https://ddvital.github.io/portfolio/)
+I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to know more about me? Try taking a look at my [Portfolio](https://ddvital.github.io/portfolio/).
 
 **main skills:**
 
