@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-
   <div>
     <a href="https://www.twitter.com/ddvital_/">
       <img align="left" alt="ddvital's twitter" width="22px" src="https://user-images.githubusercontent.com/56490555/161457096-c24861f8-41b0-4666-9661-81edd34faa76.svg"/>
@@ -17,6 +16,20 @@
 
 ### Hi, I'm David
 
+<div>
+    <a href="https://www.twitter.com/ddvital_/">
+      <img align="left" alt="ddvital's twitter" width="22px" src="https://user-images.githubusercontent.com/56490555/161457096-c24861f8-41b0-4666-9661-81edd34faa76.svg"/>
+    </a>
+    <a href="https://www.dribbble.com/ddvital/">
+      <img align="left" alt="ddvital's Dribbble" width="22px" src="https://user-images.githubusercontent.com/56490555/161457091-91ac6826-1dca-40df-9614-47970fbbb892.svg"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ddvital/">
+      <img align="left" alt="ddvital's Linkedin" width="22px" src="https://user-images.githubusercontent.com/56490555/161457095-b41d6537-829a-4d3f-9d60-f03bc7f2b9f2.svg"/>
+    </a>
+    <a href="https://stackoverflow.com/users/17768136/david">
+      <img align="left" alt="ddvital's Stackoverflow" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/161457094-35a97172-a7ae-40b3-9f4e-0b26d9b22b61.svg"/>
+    </a>
+  </div>
 </div>
 
 <p>
