@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-
 ### Hi, I'm David
 
   <div>
@@ -20,7 +19,9 @@
 
 </div>
 
-I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to know more about me? Try taking a look at my [Portfolio](https://ddvital.github.io/portfolio/).
+<p>
+  I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to know more about me? Try taking a look at my [Portfolio](https://ddvital.github.io/portfolio/).
+<p>
 
 **main skills:**
 
