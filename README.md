@@ -1,7 +1,6 @@
-<pre> </pre>
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-## Hi, my name is David
+### Hi, my name is David
 
   <div>
     <a href="https://www.twitter.com/ddvital_/">
@@ -20,11 +19,7 @@
 
 </div>
 
-</br>
-
-<p>
-  I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to know more about me? Try taking a look at my [Portfolio](https://ddvital.github.io/portfolio/).
-<p>
+I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to know more about me? Try taking a look at my [Portfolio](https://ddvital.github.io/portfolio/).
 
 **main skills:**
 
