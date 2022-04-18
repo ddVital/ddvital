@@ -20,10 +20,11 @@ I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to
   <a href="https://stackoverflow.com/users/17768136/david">
     <img align="left" alt="ddvital's Stackoverflow" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/161457094-35a97172-a7ae-40b3-9f4e-0b26d9b22b61.svg"/>
   </a>
+  <a href="https://www.goodreads.com/ddvital">
+    <img align="left" alt="ddvital's Goodreads" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/163886776-a26cffd8-75ac-49ff-9bac-49e36b2c2efd.png"/>
+  </a>
   <a href="https://www.duolingo.com/profile/ddVital">
     <img align="left" alt="ddvital's Duolingo" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/163877954-d6c63355-cbc2-4925-9d6b-ddd21499fb24.png"/>
-  </a>
-    
 </div>
 
 </br>
