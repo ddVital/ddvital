@@ -9,16 +9,10 @@ I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to
 <!-- A JavaScript developer from [Chennai][about-chennai]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️ -->
 
 <div style="">
-  <a href="https://www.twitter.com/ddvital_/">
-    <img align="left" alt="ddvital's twitter" width="22px" src="https://user-images.githubusercontent.com/56490555/161457096-c24861f8-41b0-4666-9661-81edd34faa76.svg"/>
-  </a>
   <a href="https://www.dribbble.com/ddvital/">
     <img align="left" alt="ddvital's Dribbble" width="22px" src="https://user-images.githubusercontent.com/56490555/161457091-91ac6826-1dca-40df-9614-47970fbbb892.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/ddvital/"><img align="left" alt="ddvital's Linkedin" width="22px" src="https://user-images.githubusercontent.com/56490555/161457095-b41d6537-829a-4d3f-9d60-f03bc7f2b9f2.svg"/>
-  </a>
-  <a href="https://stackoverflow.com/users/17768136/david">
-    <img align="left" alt="ddvital's Stackoverflow" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/161457094-35a97172-a7ae-40b3-9f4e-0b26d9b22b61.svg"/>
   </a>
   <a href="https://www.goodreads.com/ddvital">
     <img align="left" alt="ddvital's Goodreads" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/163886776-a26cffd8-75ac-49ff-9bac-49e36b2c2efd.png"/>
@@ -59,13 +53,11 @@ I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to
 
 <div style="display: inline_block">
   <a href="https://github.com/ddvital">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ddvital&show_icons=true&theme=dark&title_color=4c40f7&icon_color=4c40f7&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ddvital&theme=dark&hide_border=true&fire=4c40f7&ring=4c40f7&currStreakLabel=4c40f7" width = 400>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ddvital&show_icons=true&theme=dark&title_color=4961dc&icon_color=4961dc&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ddvital&theme=dark&hide_border=true&fire=4961dc&ring=4961dc&currStreakLabel=4961dc" width = 400>
 </div>
 
-[homepage]: https://ddvital.github.io/portfolio/
-[twitter]: https://twitter.com/ddvital
+[homepage]: https://ddvital.me
 [dribbble]: https://www.dribbble.com/ddvital/
-[stackoverflow]: https://stackoverflow.com/users/17768136/david
 [linkedin]: https://www.linkedin.com/in/ddvital/
 [duo]: https://www.duolingo.com/profile/ddVital
