@@ -53,8 +53,9 @@ I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to
 
 <div style="display: inline_block">
   <a href="https://github.com/ddvital">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ddvital&show_icons=true&theme=dark&title_color=4961dc&icon_color=4961dc&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ddvital&theme=dark&hide_border=true&fire=4961dc&ring=4961dc&currStreakLabel=4961dc" width = 400>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ddvital&show_icons=true&&bg_color=DD272700&theme=dark&title_color=4961dc&icon_color=4961dc&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ddvital&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&sideNums=4961DC&ring=4961DC&fire=4961DC&sideLabels=4961DC&currStreakNum=4961DC&stroke=232323&dates=535353&currStreakLabel=4961DC" width = 400>
+    
 </div>
 
 [homepage]: https://ddvital.me
