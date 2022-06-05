@@ -8,11 +8,21 @@
 I'm a software developer, B.Sc. in Computer Science, and UI/UX designer. Want to know more about me? Try taking a look at my [Portfolio](https://ddvital.github.io/portfolio/).
 <!-- A JavaScript developer from [Chennai][about-chennai]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️ -->
 
-<div style="">
+<div>
+  <a href="https://ddvital.me/">
+    <img align="left" alt="ddvital's Portfolio" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/172043794-f356b4c8-02c8-4059-92cb-6f4e4898d67e.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ddvital/">
+    <img align="left" alt="ddvital's Linkedin" width="22px" src="https://user-images.githubusercontent.com/56490555/161457095-b41d6537-829a-4d3f-9d60-f03bc7f2b9f2.svg"/>
+  </a>
   <a href="https://www.dribbble.com/ddvital/">
     <img align="left" alt="ddvital's Dribbble" width="22px" src="https://user-images.githubusercontent.com/56490555/161457091-91ac6826-1dca-40df-9614-47970fbbb892.svg"/>
   </a>
-  <a href="https://www.linkedin.com/in/ddvital/"><img align="left" alt="ddvital's Linkedin" width="22px" src="https://user-images.githubusercontent.com/56490555/161457095-b41d6537-829a-4d3f-9d60-f03bc7f2b9f2.svg"/>
+  <a href="https://www.npmjs.com/~ddvital">
+    <img align="left" alt="ddvital's NPM" width="22px" src="https://user-images.githubusercontent.com/56490555/172043412-23a11e96-cb13-4245-900a-118fc541b544.png"/>
+  </a>
+  <a href="https://www.figma.com/@ddvital">
+    <img align="left" alt="ddvital's Figma" width="22px" src="https://user-images.githubusercontent.com/56490555/172043414-0fb5dae9-347a-47e4-89ed-115281c65307.png"/>
   </a>
   <a href="https://www.goodreads.com/ddvital">
     <img align="left" alt="ddvital's Goodreads" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/163886776-a26cffd8-75ac-49ff-9bac-49e36b2c2efd.png"/>
