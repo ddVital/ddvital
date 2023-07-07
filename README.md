@@ -16,9 +16,6 @@ I'm a software developer, UI/UX designer, and B.Sc. in Computer Science. special
   <a href="https://www.linkedin.com/in/ddvital/">
     <img align="left" alt="ddvital's Linkedin" width="22px" src="https://user-images.githubusercontent.com/56490555/161457095-b41d6537-829a-4d3f-9d60-f03bc7f2b9f2.svg"/>
   </a>
-   <a href="https://www.twitter.com/ddvit42">
-    <img align="left" alt="ddvital's twitter" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/192220206-4f90919b-b678-4530-9fef-4abcf8652da6.png"/>
-  </a>
   <a href="https://www.dribbble.com/ddvital/">
     <img align="left" alt="ddvital's Dribbble" width="22px" src="https://user-images.githubusercontent.com/56490555/161457091-91ac6826-1dca-40df-9614-47970fbbb892.svg"/>
   </a>
@@ -31,8 +28,6 @@ I'm a software developer, UI/UX designer, and B.Sc. in Computer Science. special
   <a href="https://www.goodreads.com/ddvital">
     <img align="left" alt="ddvital's Goodreads" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/163886776-a26cffd8-75ac-49ff-9bac-49e36b2c2efd.png"/>
   </a>
-  <a href="https://www.duolingo.com/profile/ddVital">
-    <img align="left" alt="ddvital's Duolingo" width="22px" height="22px" src="https://user-images.githubusercontent.com/56490555/163877954-d6c63355-cbc2-4925-9d6b-ddd21499fb24.png"/>
 </div>
 
 <!-- 
@@ -46,5 +41,3 @@ I'm a software developer, UI/UX designer, and B.Sc. in Computer Science. special
 [homepage]: https://ddvital.me
 [dribbble]: https://www.dribbble.com/ddvital/
 [linkedin]: https://www.linkedin.com/in/ddvital/
-[duo]: https://www.duolingo.com/profile/ddVital
-[twitter]: https://www.twitter.com/ddvit42
